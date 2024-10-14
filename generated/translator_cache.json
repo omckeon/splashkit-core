@@ -2371,7 +2371,7 @@
         }
       },
       {
-        "signature": "string replace_all(const string &text,const string &substr,const string &newText);",
+        "signature": "string replace_all(const string &text,const string &substr,const string &new_text);",
         "name": "replace_all",
         "method_name": null,
         "unique_global_name": "replace_all",
@@ -2414,7 +2414,7 @@
             "is_vector": false,
             "type_parameter": null
           },
-          "newText": {
+          "new_text": {
             "type": "string",
             "description": "The string to replace the substring with",
             "is_pointer": false,
